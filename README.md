@@ -1,13 +1,13 @@
-# WaftEngine (MERN Stack Engine)
+# MERN Stack Engine
 
 [WaftEngine](https://waftengine.org) is an open source platform for developers to create enterprise level web application in MERN stack. This platform already contains components like user management, roles management, module management, access management, content management with production ready setup which helps developers to develop their application in minimum cost.
 
-[![Gitter](https://badges.gitter.im/waftengine/community.svg)](https://gitter.im/waftengine/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine?ref=badge_shield)
-
+[![Gitter](https://badges.gitter.im/waftengine/community.svg)](https://gitter.im/waftengine/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine?ref=badge_shield)
 
 ## Features
 
-WaftEngine core features include:
+This engine core features include:
 
 - User Manage and Login flow
 - Role Manage
@@ -79,6 +79,5 @@ We love your pull requests! Check out our [`Good First Issue`](https://github.co
 ### License
 
 Copyright © [The MIT License (MIT)](./LICENSE.md)
-
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWaftTech%2FWaftEngine?ref=badge_large)
